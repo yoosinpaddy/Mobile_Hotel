@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008037</color>
+    <color name="colorPrimaryDark">#02632B</color>
+    <color name="colorAccent">#CE1228</color>
+
+    <color name="translucent_glass">#95363636</color>
+    <color name="translucent_glass_white">#95FFFFFF</color>
+    <color name="transparent">#00000000</color>
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+    <color name="grey">#ECECEC</color>
+    <color name="red">#FF6978</color>
+    <color name="orange">#FF997A</color>
+    <color name="greyDark">#C0C0C0</color>
+    <color name="veryLightSkyBlue">#26c3d6</color>
+    <color name="almostVeryLightSkyBlue">#00A0B6</color>
+    <color name="black_overlay">#66000000</color>
+    <color name="black_overlay_darker">#88000000</color>
+</resources>
